@@ -16,4 +16,4 @@ Dataset yang digunakan dalam proyek ini dapat diakses melalui [Satellite Image C
 
 ---
 
-Terima kasih telah mengunjungi proyek Image Classification ini. Semoga proyek ini berguna dan bermanfaat untuk Anda!
+Terima kasih telah mengunjungi proyek Image Classification ini. Semoga proyek ini berguna dan bermanfaat🚀👩‍🚀
