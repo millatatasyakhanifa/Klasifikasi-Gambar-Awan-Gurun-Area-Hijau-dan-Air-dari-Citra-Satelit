@@ -6,11 +6,11 @@ Proyek ini bertujuan untuk mengembangkan model klasifikasi gambar yang dapat men
 
 ## Dataset
 
-Dataset yang digunakan dalam proyek ini dapat diakses melalui [Satellite Image Classification](https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification). Dataset ini terdiri dari serangkaian citra satelit yang sudah diklasifikasikan ke dalam empat kategori target: cloud, desert, green area, dan water.
+Dataset yang digunakan dalam proyek ini dapat diakses melalui [Link Dataset Satellite Image Classification di Kaggle](https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification). Dataset ini terdiri dari serangkaian citra satelit yang sudah diklasifikasikan ke dalam empat kategori target: cloud, desert, green area, dan water.
 
 ## Cara Penggunaan
 
-1. Unduh dataset dari [Satellite Image Classification](https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification) yang ada di Kaggle.
+1. Unduh dataset [Satellite Image Classification](https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification) yang ada di Kaggle.
 2. Buka notebook Jupyter yang telah disediakan untuk langkah-langkah analisis dan pelatihan model.
 3. Ikuti petunjuk dalam notebook untuk melaksanakan langkah-langkah proyek.
 
